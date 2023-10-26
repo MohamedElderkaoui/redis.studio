@@ -44,21 +44,21 @@ Created symlink /etc/systemd/system/redis.service → /lib/systemd/system/redis-
 Created symlink /etc/systemd/system/multi-user.target.wants/redis-server.service → /lib/systemd/system/redis-server.service.
 
 
-# UTILERIA UTILERIA UTILERIA UTILERIA UTILERIA UTILERIA UTILERIA 
-*sudo systemctl status redis-server*
+# UTILERIA UTILERIA 
 
-*sudo systemctl stop redis-server*
-*sudo systemctl start redis-server*
-*sudo systemctl restart redis-server*
-
-*sudo systemctl enable redis-server*
-*sudo systemctl disable redis-server*
+- *sudo systemctl status redis-server*
+- *sudo systemctl stop redis-server*
+- *sudo systemctl start redis-server*
+- *sudo systemctl restart redis-server*
+- .
+- *sudo systemctl enable redis-server*
+- *sudo systemctl disable redis-server*
 
 ## testing redis:
 
 sudo systemctl status redis
 
-**not root:**
+**not root:** `redis-cli`
 
 ```bash
 ray@silver:~$ redis-cli
@@ -71,7 +71,7 @@ ray@silver:~$ redis-cli
 # requirepas foobared
 requirepas bea 
 ```
-vs
+**vs**
 
 **`openssl rand 60 | openssl base64 -A`** ...
 
