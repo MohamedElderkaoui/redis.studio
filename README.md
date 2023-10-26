@@ -69,7 +69,7 @@ ray@silver:~$ redis-cli
 
 ```bash
 # requirepas foobared
-requirepas bea 
+requirepas abracadabra 
 ```
 **vs**
 
