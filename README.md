@@ -80,4 +80,8 @@ requirepas abracadabra
 
 [tutorial](https://ualmtorres.github.io/howtos/RedisNodeJS/) 
 
+## redis en windows sin un susbsitema linux
+
+[link](https://riptutorial.com/redis/example/29962/installing-and-running-redis-server-on-windows)
+
 
