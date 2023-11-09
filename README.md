@@ -79,6 +79,7 @@ requirepas abracadabra
 ## redis w node
 
 [tutorial](https://ualmtorres.github.io/howtos/RedisNodeJS/) 
+- [ ] [**video**](https://www.youtube.com/watch?v=wOgpcp2MVFE)
 
 ## redis en windows sin un susbsitema linux
 
