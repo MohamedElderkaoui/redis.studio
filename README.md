@@ -75,9 +75,17 @@ requirepas abracadabra
 
 **`openssl rand 60 | openssl base64 -A`** ...
 
+## redis w python
+
+- [ ] [https://www.youtube.com/watch?v=_8lJ5lp8P0U](https://www.youtube.com/watch?v=_8lJ5lp8P0U)
 
 ## redis w node
 
-[tutorial](https://ualmtorres.github.io/howtos/RedisNodeJS/) 
+- [ ] [tutorial](https://ualmtorres.github.io/howtos/RedisNodeJS/) 
+- [ ] [https://www.youtube.com/watch?v=wOgpcp2MVFE](https://www.youtube.com/watch?v=wOgpcp2MVFE)
+
+## redis en windows sin un susbsitema linux
+
+[link](https://riptutorial.com/redis/example/29962/installing-and-running-redis-server-on-windows)
 
 
